@@ -1,0 +1,52 @@
+.card
+{
+    border: 5px solid #00ff88;
+    margin: 30px;
+    border-radius: 16px;
+    height: 180px;
+    width: 200px;
+    display: inline-block;
+    color: #fff;
+}
+
+.cards
+{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: inline-flex;
+}
+
+
+.title
+{
+    margin-left: 15px;
+    color: #fff;
+    font-weight: 600;
+}
+
+.text
+{
+    margin-left: 15px;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.desc
+{
+    font-size: 16px;
+    margin: 15px;
+    font-weight: 600;
+}
+
+@media screen and (max-width: 600px) 
+{
+
+    .cards
+    {
+        display: block;
+        margin-top: 250px;
+    }
+    
+}
