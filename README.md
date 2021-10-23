@@ -2,7 +2,7 @@
 
 ## Live COVID19 tracker build in ReactJS.
 
-# API's used
+## API's used
   https://covid2019-api.herokuapp.com/
   https://www.vaccinespotter.org/api
   
