@@ -1,19 +1,19 @@
-### COVID 19 TRACKER
+# COVID 19 TRACKER
 
 ## Live COVID19 tracker build in ReactJS.
 
-## API's used
+### API's used
   https://covid2019-api.herokuapp.com/
   https://www.vaccinespotter.org/api
   
   
-## Features
+### Features
     Confirmed cases US
     Confirmed cases world
     Confirmed deaths world
     Number of vaccines stored in every state
 
-## Run locally
+### Run locally
     git clone https://github.com/nbapera/covid-19-tracker
     cd covid-19-tracker
     npm install
